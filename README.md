@@ -42,7 +42,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Contact
 
-For any inquiries, please contact Sreedeep.
+For inquiries, collaboration opportunities, or feedback, please reach out to me via email: letsmail.sree@gmail.com
 
 ## License
 
