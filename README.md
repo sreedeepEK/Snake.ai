@@ -4,7 +4,7 @@ This project implements a Deep Reinforcement Learning (DRL) agent that plays the
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine.
+Follow these instructions to run this on your local machine.
 
 ### Prerequisites
 
@@ -14,7 +14,7 @@ Make sure you have Python and Git installed on your machine.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sreedeepEK/Snake.ai.git
+    git clone https://github.com/sreedeepEK/Snake.ai
     ```
 
 2. Install the required dependencies:
