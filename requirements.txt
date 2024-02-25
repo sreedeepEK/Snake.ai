@@ -1,4 +1,4 @@
-torch==1.9.0
+torch==2.2.0
 gym~=0.23
 pygame==2.2.3
 numpy>=1.0
