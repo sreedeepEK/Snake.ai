@@ -27,4 +27,11 @@ cd Snake.ai
 Run the agent:
 python agent.py
 
+Contact
+
+For any inquiries, please contact Sreedeep.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
