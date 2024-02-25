@@ -17,28 +17,14 @@ Clone the repository:
 git clone https://github.com/sreedeepEK/Snake.ai.git
 
 Install the required dependencies:
-
-bash
-
 pip install -r requirements.txt
 
-Running the Agent
+# Running the Agent
 
 Navigate to the project directory:
-
-bash
-
 cd Snake.ai
 
 Run the agent:
-
-bash
-
 python agent.py
 
-Contributing
 
-Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues or have suggestions, please open an issue on GitHub.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
