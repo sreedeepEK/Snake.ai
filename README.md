@@ -1,6 +1,10 @@
 # Snake.ai - Deep Reinforcement Learning Snake Agent
 
 This project implements a Deep Reinforcement Learning (DRL) agent that plays the classic Snake game. The agent learns to optimize its actions to maximize its score by collecting apples and avoiding obstacles.
+| Interface | Training |
+|:---------:|:--------:|
+| <p align="center"><img src="https://github.com/sreedeepEK/Snake.ai/blob/main/Screenshots/Interface.png" width="300"></p> | <p align="center"><img src="https://github.com/sreedeepEK/Snake.ai/blob/main/Screenshots/Training.png" width="321"></p> |
+
 
 ## Getting Started
 
@@ -35,6 +39,7 @@ To run the Snake AI agent, follow these steps:
     ```bash
     python agent.py
     ```
+
 
 ## Contributing
 
